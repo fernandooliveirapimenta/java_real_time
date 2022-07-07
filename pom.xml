@@ -40,7 +40,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
         <jetty>9.4.18.v20190429</jetty>
-        <ws>8.2.0.v20160908</ws>
+        <ws>10.0.10</ws>
     </properties>
 
     <build>
